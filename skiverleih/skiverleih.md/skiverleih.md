@@ -29,7 +29,6 @@ Bei **Statusänderungen** (Miete oder Rückgabe) werden automatische **E-Mail-Be
   - Rückgabe verbuchen → Status auf *RETURNED* setzen, Ski wieder verfügbar  
 - **E-Mail-Benachrichtigung**:  
   - Beim **Mieten**: Bestätigung mit Details (Ski, Dauer, Preis, Rückgabedatum)  
-  - Bei **Rückgabe**: Bestätigung über erfolgte Rückgabe  
 - **Persistenz (JSON)**:  
   - Beim Start werden alle Daten geladen  
   - Beim Beenden/Save werden Änderungen wieder in JSON gespeichert  
